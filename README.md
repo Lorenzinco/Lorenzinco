@@ -1,4 +1,4 @@
-# Lorenzinco's Github profile 
+# 📚 Never stop learning.
 
 - 🔭 I’m currently working on tutoring at [Cyberchallenge.it](cyberchallenge.it) 2024 as well as  finishing my bachelors degree at Sapienza University of Rome
 - 🌱 I’ve been also learning kernel pwn, heap exploitation and Rust, as i love using it for all of my private projects
