@@ -1,11 +1,11 @@
 # 📚 Never stop learning.
 
-- 🔭 I’m currently working on tutoring at [Cyberchallenge.it](cyberchallenge.it) 2024 as well as  finishing my bachelors degree at Sapienza University of Rome
+- 🔭 I’m currently working on tutoring at [Cyberchallenge.it](https://cyberchallenge.it) 2024 as well as  finishing my bachelors degree at Sapienza University of Rome
 - 🌱 I’ve been also learning kernel pwn, heap exploitation and Rust, as i love using it for all of my private projects
 - 💬 My main intrests are SAT-Solving and binary exploitation
 
 # My CTF journey
-- 🏆 I'm an active member of [🟢TheRomanXpl0it](theromanXpl0.it) and [🍝Mhackeroni](mhackeroni.it)
+- 🏆 I'm an active member of [🟢TheRomanXpl0it](https://theromanXpl0.it) and [🍝Mhackeroni](https://mhackeroni.it)
 #### My writeups
 - 📝 You can find my writeups on [my blog](https://lorenzinco.github.io/) (under construction)
 
