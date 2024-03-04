@@ -9,8 +9,9 @@
 #### My writeups
 - 📝 You can find my writeups on [my blog](https://lorenzinco.github.io/) (under construction)
 
-![Lorenzinco's Stats](https://github-readme-stats.vercel.app/api?username=Lorenzinco&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
-![Lorenzinco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lorenzinco&theme=synthwave&hide_border=false)
+![Lorenzinco's Stats](https://github-readme-stats.vercel.app/api?username=Lorenzinco&theme=synthwave&show_icons=true&hide_border=false&count_private=true&layout=compact)
+![Lorenzinco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzinco&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+![Lorenzinco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lorenzinco&theme=synthwave&hide_border=false&layout=compact)
 
   
 
