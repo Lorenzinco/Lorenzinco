@@ -10,7 +10,7 @@
 - 📝 You can find my writeups on [my blog](https://lorenzinco.github.io/) (under construction)
 
 ![Lorenzinco's Stats](https://github-readme-stats.vercel.app/api?username=Lorenzinco&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzinco&theme=synthwave&layout=compact&hide_border=false)
+![Lorenzinco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lorenzinco&theme=synthwave&hide_border=false)
 
   
 
