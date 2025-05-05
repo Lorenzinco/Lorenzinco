@@ -1,8 +1,8 @@
 # 📚 Never stop learning.
 
-- 🔭 I’m currently working on tutoring at [Cyberchallenge.it](https://cyberchallenge.it) 2024 as well as  finishing my bachelors degree at Sapienza University of Rome
+- 🔭 I’m currently working on tutoring at [Cyberchallenge.it](https://cyberchallenge.it) 2025 as well as studying for my master degree in computer science at Sapienza University of Rome.
 - 🌱 I’ve been also learning kernel pwn, heap exploitation and Rust, as i love using it for all of my private projects
-- 💬 My main intrests are SAT-Solving and binary exploitation
+- 💬 My main intrests are SAT-Solving and binary exploitation.
 
 # My CTF journey
 - 🏆 I'm an active member of [🟢TheRomanXpl0it](https://theromanXpl0.it) and [🍝Mhackeroni](https://mhackeroni.it)
@@ -11,22 +11,3 @@
 
 ![Lorenzinco's Stats](https://github-readme-stats.vercel.app/api?username=Lorenzinco&theme=synthwave&show_icons=true&hide_border=false&count_private=true&layout=compact)
 ![Lorenzinco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzinco&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
-
-  
-
-
-
-<!--
-**Lorenzinco/Lorenzinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
